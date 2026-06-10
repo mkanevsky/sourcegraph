@@ -72,5 +72,6 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "cody.codebase": "github.com/sourcegraph/sourcegraph",
-  "rust-analyzer.linkedProjects": ["docker-images/syntax-highlighter/Cargo.toml"]
+  "rust-analyzer.linkedProjects": ["docker-images/syntax-highlighter/Cargo.toml"],
+  "i18n-ally.localesPaths": ["lib/codeintel/languages", "doc/dev/background-information/languages"]
 }
